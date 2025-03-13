@@ -1,0 +1,19 @@
+(1):
+lenth=eval(input("enter a lenth"))
+width=eval(input("enter a width"))
+area=0.5*(lenth*width)
+print("the area of a triangle : ",area)
+------------------------------------------
+(2):
+a=5
+b=30
+print("before swapping: a=",a,"b=",b)
+a,b = b,a
+print
+-------------------------------------------
+ (3):
+km=int(input("enter a number:"))
+miles= km*0.621371
+print(f"{km} km is equel to {miles} miles")
+
+
